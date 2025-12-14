@@ -13,7 +13,7 @@ Ce projet démontre l'intégration du protocole SOAP (via `ksoap2`) dans l'écos
 * **Communication SOAP :** Gestion des requêtes et réponses XML brutes.
 * **Interface Réactive :** Utilisation de `RecyclerView` et `Coroutines` pour la fluidité.
 <img width="463" height="963" alt="Capture d&#39;écran 2025-11-23 215133" src="https://github.com/AsmaElmourabite/SOAP-Project2/blob/dc631e33095adf8ea247a0e51aa980d257874293/tp14.jpg" />
-<img width="476" height="975" alt="Capture d&#39;écran 2025-11-23 215106" src="" />
+<img width="476" height="975" alt="Capture d&#39;écran 2025-11-23 215106" src="https://github.com/AsmaElmourabite/SOAP-Project2/blob/5f0328bd3a281e78662d156b94db7261bade7a7c/tp14.1.jpg" />
 
 ## 🛠️ Stack Technique
 
